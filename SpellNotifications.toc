@@ -2,6 +2,6 @@
 ## Title: SpellNotifications
 ## Notes: Simple spell notifications.
 ## Version: 2.5.1
-## Author: Oscarwizyo, thanks to Veev and LucyON.
+## Author: Oscarwizyo
 
 SpellNotifications.xml
