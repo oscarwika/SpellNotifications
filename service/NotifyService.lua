@@ -27,5 +27,5 @@ function addon.print(text, color, size)
 end
 
 function addon.playSound(sound)
-    PlaySoundFile("Interface\\AddOns\\SpellNotifications\\Sounds\\" .. sound .. ".mp3", "Master");
+    PlaySoundFile("Interface\\AddOns\\SpellNotifications\\sounds\\" .. sound .. ".mp3", "Master");
 end
