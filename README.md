@@ -5,7 +5,7 @@ This is a refactor of Veev's original SpellNotifications addon that works with T
 - Thanks to LucyOn for keeping it updated for Retail (BFA, SL) [(GitHub)](https://github.com/jobackman/SpellNotifications) - [(CurseForge)](https://www.curseforge.com/wow/addons/spellnotifications).
 
 # What does the addon do?
-For those who are new to SpellNotifications it's an addon that textually displays:
+For those who are new to SpellNotifications, it's an addon that textually displays:
 
 - When you dispel (offensively, defensively, or spellstolen), what was dispelled
 - When you interrupt a spell and what school was interrupted
