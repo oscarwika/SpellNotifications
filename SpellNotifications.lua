@@ -55,7 +55,7 @@ function SpellNotifications_OnEvent(event)
 	end
 
 	-- UNIT_DIED
-	if (checkEventAndSourceFlags(event, "SPELL_STOLEN", sourceFlags, bit_band)) then
+	if (checkEventAndSourceFlags(event, "UNIT_DIED", sourceFlags, bit_band)) then
 		if bit_band(destFlags, COMBATLOG_OBJECT_TYPE_PET) > 0 then
 			addon.print("Pet dead.","red","large")
 		end
