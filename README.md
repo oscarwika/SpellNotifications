@@ -1,11 +1,10 @@
 # SpellNotifications
-- Thanks to Veev for creating the [original version](http://www.veevsvault.com/addons/).
+_Thanks to Veev for creating the original version_
+This is a refactor of Veevs original SpellNotifications addon that works with TBC classic.
 - Thanks to LucyOn for updating it for Retail [(GitHub)](https://github.com/jobackman/SpellNotifications) - [(CurseForge)](https://www.curseforge.com/wow/addons/spellnotifications).
 
-This is a refactor of Veevs original SpellNotifications addon that works with TBC classic.
-
 # What does the addon do?
-For those who are new to SpellNotifications it is an addon that textually displays:
+For those who are new to SpellNotifications it's an addon that textually displays:
 
 - When you dispel (offensively, defensively, or spellstolen), what was dispelled
 - When you interrupt a spell and what school was interrupted
