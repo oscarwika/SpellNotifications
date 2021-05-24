@@ -14,7 +14,7 @@ For those who are new to SpellNotifications it's an addon that textually display
 
 # What has changed from the original?
 You can expect the same functionality as with the original version, except from a few things that I might add back in a later version.
-- Sound warnings (Added buzz sound when pet dies)
+- Sound warnings (Added - buzz sound for when your pet dies)
 - Offensive cooldown warnings
 
 # Example
