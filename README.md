@@ -13,8 +13,6 @@ For those who are new to SpellNotifications it is an addon that textually displa
 - When your attacks, spells or heals are _immuned_, _evaded_ or similar effects. (Comming soon)
 
 # What has changed from the original?
-It has been updated for BFA's 8.0 change to combat log events, which had made the original addon unusable, and also cleaned up from old contents that was using Pandaria era spells and talents. There were also a bunch of unused code blocks and commented out code that seemed to be have been used by Veev personally for notifying his friends of spells and such, they are now gone. Other than that it should work just like it did before, announcing dispels, kicks, immunities etc.
-
 You can expect the same functionality as with the original version, except from a few things that I might add back in a later version.
 - Sound warnings
 - Offensive cooldown warnings
