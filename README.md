@@ -1,0 +1,2 @@
+# SpellNotifications
+Simple spell notifications.
