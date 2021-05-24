@@ -1,0 +1,7 @@
+## Interface: 20501
+## Title: SpellNotifications
+## Notes: Simple spell notifications.
+## Version: 2.5.1
+## Author: Oscarwizyo, thanks to Veev and LucyON.
+
+SpellNotifications.xml
