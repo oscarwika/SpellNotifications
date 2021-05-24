@@ -5,7 +5,7 @@
 This is a refactor of Veevs original SpellNotifications addon that works with TBC classic.
 
 # What does the addon do?
-For those who are new to Spellnotifications it is an addon that textually displays:
+For those who are new to SpellNotifications it is an addon that textually displays:
 
 - When you dispel (offensively, defensively, or spellstolen), what was dispelled
 - When you interrupt a spell and what school was interrupted
