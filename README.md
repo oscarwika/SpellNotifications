@@ -1,7 +1,7 @@
 # SpellNotifications
 _Thanks to Veev for creating the original version_
 
-This is a refactor of Veevs original SpellNotifications addon that works with TBC classic.
+This is a refactor of Veev's original SpellNotifications addon that works with TBC classic.
 - Thanks to LucyOn for keeping it updated for Retail (BFA, SL) [(GitHub)](https://github.com/jobackman/SpellNotifications) - [(CurseForge)](https://www.curseforge.com/wow/addons/spellnotifications).
 
 # What does the addon do?
