@@ -1,4 +1,6 @@
-## Interface: 20501
+## Interface-Classic: 11307
+## Interface-BCC: 20501
+## Interface-Retail: 90005
 ## Title: SpellNotifications
 ## Notes: Simple spell notifications.
 ## Version: 2.5.1
